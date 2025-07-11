@@ -11,7 +11,6 @@
 - plotly
 - pandas
 - numpy
-- pickle
 - sklearn
 - collections
 - tensorflow
